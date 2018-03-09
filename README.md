@@ -1,2 +1,8 @@
 # Hello-world
-Just to you
+#include<stdio.h>
+int main(void)
+{
+  printf("Hello world");
+  printf("\n");
+  return 0;
+}
